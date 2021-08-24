@@ -1,7 +1,7 @@
 ## Marvel Superheroes
 Our app allows users to browse the plethora characters populating the Marvel Comics universe.
 
-
+![Marvel-Superhero-Alliance-Word-Cloud/Output/GoodMaskWC1.png](Marvel-Superhero-Alliance-Word-Cloud/Output/GoodMaskWC1.png
 ##############################################################################################################
 ### Before You Begin
 Add you mopbox.com API key to /static/js/config.js.  This will be required for web visualizations.
