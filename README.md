@@ -1,5 +1,5 @@
 ## Marvel Superheroes
-https://github.com/ElVejigante/Marvel-Superhero-Alliance-Word-Cloud/blob/60c4122f69c58a16dae4e33f50f92fe21b2b2856/Output/GoodMaskWC1.png
+[https://github.com/ElVejigante/Marvel-Superhero-Alliance-Word-Cloud/blob/60c4122f69c58a16dae4e33f50f92fe21b2b2856/Output/GoodMaskWC1.png]
 Our app allows users to browse the plethora characters populating the Marvel Comics universe.
 
 ##############################################################################################################
